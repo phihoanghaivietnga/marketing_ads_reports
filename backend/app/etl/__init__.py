@@ -1,0 +1,1 @@
+"""ETL pipeline — Celery app, tasks, rate limiter."""

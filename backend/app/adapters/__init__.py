@@ -1,0 +1,1 @@
+"""Adapter layer — platform-specific API integrations (Facebook, TikTok, Google)."""

@@ -1,0 +1,1 @@
+"""Infrastructure layer — settings, database engine, Redis client."""

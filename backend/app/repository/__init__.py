@@ -1,0 +1,1 @@
+"""Repository layer — database access (raw_events, staging, fact tables)."""
